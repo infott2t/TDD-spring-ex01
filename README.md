@@ -11,3 +11,7 @@ sql,
 --DB권한 부여하기. GRANT ALL PRIVILEGES ON EXAMPLE0.* TO 'admin0'@'localhost';
 
 USE EXAMPLE0;
+
+서비스 실제 제공관련해서는 책임지지 않습니다. 참조해보세요. <a href="https://github.com/infott2t">https://github.com/infott2t</a>
+
+감사합니다.
