@@ -17,6 +17,16 @@ public class TddClass {
          *
          *
          * */
+        System.out.println("hello~. TDD. Test Driven Development.");
+
+        System.out.println("User SignUp...");
+        System.out.println("Need, User SignUp Form..., privacy policy, terms of use, etc...");
+
+        User u = new User(1L,"userRole","name","email","phone","address","addressDetail","addressPostCode");
+
+        System.out.println("User Login...");
+
+        //Service Class making... How make after,... Funny~. Make this~. Yours. Thank you.
 
     }
 }
