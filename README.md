@@ -14,4 +14,8 @@ USE EXAMPLE0;
 
 서비스 실제 제공관련해서는 책임지지 않습니다. 참조해보세요. <a href="https://github.com/infott2t">https://github.com/infott2t</a>
 
-감사합니다.
+또, 교회. 다녀보세요. 기독교. 전화도 해보세요. 사회에서 쉴 곳. 하고 싶은 말이네요.
+
+좋은 하루되세요.
+
+저의 Git, 봐 주셔서 감사합니다.
